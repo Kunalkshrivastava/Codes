@@ -42,40 +42,44 @@
 
 21 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/llselfpointer.c">Find self pointer in linked list</a>
 
-22 :- <a href="fgtfhygj">Gate Lectures By Ravindra Babu Ravula</a>
+22 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Array/anagram.c">Check Anagram array</a>
 
-23 :- <a href="dsfdgfhg">Easy Engineering Classes</a>
+23 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Array/arraylrrl.c">print array from left to right and then right left continuously from top</a>
 
-24 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+24 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Array/arrayspiral.c">Print array in spiral clockwise order using one loop</a>
 
-25 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+25 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Array/pallindrome.c">Check pallindrome array</a>
 
-26 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+26 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Sorting/bubblesort.c">sort array using bubble sort</a>
 
-27 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+27 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Sorting/insertionsort.c">sort array using insertion sort</a>
 
-28 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+28 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Sorting/mergesort.c">sort array using merge sort</a>
 
-29 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+29 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Sorting/mergesort1.c">merge sort using only 2 arrays</a>
 
-30 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+30 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Sorting/quicksort.c">Implement quick sort on array</a>
 
-31 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+31 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Sorting/selectionsort.c">Implement selection sort</a>
 
-32 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+32 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Stack%20and%20Queue/queuearray.c">Implement Queue using array</a>
 
-33 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+33 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Stack%20and%20Queue/stackarray.c">Implement Stack using array</a>
 
-34 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+34 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/addallno.c">Add all numbers present in file</a>
 
-35 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+35 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/addtwolargeno.c">Add two large digit number</a>
 
-36 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+36 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/arithmetic.c">Arithmetic operations in c</a>
 
-37 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
+37 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/findword.c">Find word in text file</a>
 
-38 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+38 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/findword2.c">Find word in text file without using any string function</a>
 
-39 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+39 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/largeno.c">Print large digit number</a>
 
-40 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+40 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/random.c">generate 10 random number between 1 to 100</a>
+
+41 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/randominfile.c">generate 10 random number between 1 to 100 and print in text file</a>
+
+42 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/stopon42.c">Stop generating numbers when it's 42</a>
