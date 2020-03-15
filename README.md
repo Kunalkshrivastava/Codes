@@ -6,7 +6,7 @@
 
 3 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/llswapadjacent.c">Swap adjacent in Linked list</a>
 
-4 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/dcllreverse.c">create and display doubly circular linked list</a>
+4 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/dcllreverse.c">create and display doubly circular linked list in reverse</a>
 
 5 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/dll.c">create and display doubly linked list</a>
 
