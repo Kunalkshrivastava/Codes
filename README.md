@@ -12,7 +12,7 @@
 
 6 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/linkedlist.c">create and display linked list</a>
 
-7 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/ll1.c">Gate Lectures By Ravindra Babu Ravula</a>
+7 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/ll1.c">Basic structure of linked list</a>
 
 8 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Linked%20List/lladdatbegin.c">add number at begin of linked list</a>
 
