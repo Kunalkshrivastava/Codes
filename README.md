@@ -84,6 +84,3 @@
 41 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/randominfile.c">generate 10 random number between 1 to 100 and print in text file</a>
 
 42 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/stopon42.c">Stop generating numbers when it's 42</a>
-
-##Geeks for Geeks - Must Do Interview Preparation Course
-##Hacker Rank Interview Preparation Kit
