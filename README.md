@@ -78,8 +78,37 @@
 
 39 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/largeno.c">Print large digit number</a>
 
+
 40 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/random.c">generate 10 random number between 1 to 100</a>
 
 41 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/randominfile.c">generate 10 random number between 1 to 100 and print in text file</a>
 
 42 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/stopon42.c">Stop generating numbers when it's 42</a>
+
+#Geeks for Geeks - Must Do Interview Preparation Course
+
+#Array
+
+Subarray with given sum
+Count the triplets
+Kadane’s Algorithm
+Missing number in array
+Merge two sorted arrays
+Rearrange array alternatively
+Number of pairs
+Inversion of Array
+Sort an array of 0s, 1s and 2s
+Equilibrium point
+Leaders in an array
+Minimum Platforms
+Reverse array in groups
+K’th smallest element
+Trapping Rain Water
+Pythagorean Triplet
+Chocolate Distribution Problem
+Stock buy and sell
+Element with left side smaller and right side greater
+Convert array into Zig-Zag fashion
+Last Index of 1
+Spirally traversing a matrix
+Largest Number formed from an Array
