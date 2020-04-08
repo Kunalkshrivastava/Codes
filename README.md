@@ -84,3 +84,7 @@
 41 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/randominfile.c">generate 10 random number between 1 to 100 and print in text file</a>
 
 42 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/number%20string%20file/stopon42.c">Stop generating numbers when it's 42</a>
+
+43 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Stack%20and%20Queue/queueusingstack.c">Implementing queue using stack</a>
+
+44 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Stack%20and%20Queue/stackusingqueue.c">Implementing stack using queue</a>
