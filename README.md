@@ -88,3 +88,5 @@
 43 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Stack%20and%20Queue/queueusingstack.c">Implementing queue using stack</a>
 
 44 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Stack%20and%20Queue/stackusingqueue.c">Implementing stack using queue</a>
+
+45 :- <a href="https://github.com/Kunalkshrivastava/Codes/blob/master/Hashing/hashing.c">Insert, delete, search, display using hashing</a>
