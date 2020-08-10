@@ -8,14 +8,11 @@ public:
             if(nums[i] != 0)
             {
                 nums[p] = nums[i];
+                nums[i] = 0;
                 p++;
             }
             
           i++;
-        }
-        while(p< nums.size()){
-            nums[p] = 0;
-            p++;
         }
         
         for(auto a:nums)
